@@ -1,0 +1,14 @@
+C:\Users\kosra\OneDrive\Skrivbord\Skola\GrundProgrammering\EnkelInputOutput\personNummer\personNummer\bin\Debug\net6.0\personNummer.exe
+C:\Users\kosra\OneDrive\Skrivbord\Skola\GrundProgrammering\EnkelInputOutput\personNummer\personNummer\bin\Debug\net6.0\personNummer.deps.json
+C:\Users\kosra\OneDrive\Skrivbord\Skola\GrundProgrammering\EnkelInputOutput\personNummer\personNummer\bin\Debug\net6.0\personNummer.runtimeconfig.json
+C:\Users\kosra\OneDrive\Skrivbord\Skola\GrundProgrammering\EnkelInputOutput\personNummer\personNummer\bin\Debug\net6.0\personNummer.dll
+C:\Users\kosra\OneDrive\Skrivbord\Skola\GrundProgrammering\EnkelInputOutput\personNummer\personNummer\bin\Debug\net6.0\personNummer.pdb
+C:\Users\kosra\OneDrive\Skrivbord\Skola\GrundProgrammering\EnkelInputOutput\personNummer\personNummer\obj\Debug\net6.0\personNummer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosra\OneDrive\Skrivbord\Skola\GrundProgrammering\EnkelInputOutput\personNummer\personNummer\obj\Debug\net6.0\personNummer.AssemblyInfoInputs.cache
+C:\Users\kosra\OneDrive\Skrivbord\Skola\GrundProgrammering\EnkelInputOutput\personNummer\personNummer\obj\Debug\net6.0\personNummer.AssemblyInfo.cs
+C:\Users\kosra\OneDrive\Skrivbord\Skola\GrundProgrammering\EnkelInputOutput\personNummer\personNummer\obj\Debug\net6.0\personNummer.csproj.CoreCompileInputs.cache
+C:\Users\kosra\OneDrive\Skrivbord\Skola\GrundProgrammering\EnkelInputOutput\personNummer\personNummer\obj\Debug\net6.0\personNummer.dll
+C:\Users\kosra\OneDrive\Skrivbord\Skola\GrundProgrammering\EnkelInputOutput\personNummer\personNummer\obj\Debug\net6.0\refint\personNummer.dll
+C:\Users\kosra\OneDrive\Skrivbord\Skola\GrundProgrammering\EnkelInputOutput\personNummer\personNummer\obj\Debug\net6.0\personNummer.pdb
+C:\Users\kosra\OneDrive\Skrivbord\Skola\GrundProgrammering\EnkelInputOutput\personNummer\personNummer\obj\Debug\net6.0\personNummer.genruntimeconfig.cache
+C:\Users\kosra\OneDrive\Skrivbord\Skola\GrundProgrammering\EnkelInputOutput\personNummer\personNummer\obj\Debug\net6.0\ref\personNummer.dll
